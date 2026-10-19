@@ -16,7 +16,7 @@
 
 <br>
 
-## 📖 About This Playbook / عن هذا المرجع
+## About This Playbook / عن هذا المرجع
 
 **[ EN ]**
 The transition from traditional IT security to Operational Technology (OT) security is steep. This playbook is engineered to bridge that gap. Built by an engineer who started with wrenches and mechanical maintenance before diving into network packets and detection engineering, this repository serves as a structured, pragmatic guide to securing industrial environments. It avoids theoretical fluff and focuses on what works in the field: understanding the Purdue Model, dissecting industrial protocols (Modbus, DNP3, OPC UA), and building robust Detection Engineering rules without disrupting physical processes.
@@ -26,7 +26,7 @@ The transition from traditional IT security to Operational Technology (OT) secur
 
 ---
 
-## 🎯 Target Audience / الفئة المستهدفة
+## Target Audience / الفئة المستهدفة
 
 **[ EN ]**
 *   **IT Security Professionals & SOC Analysts:** Looking to understand how to monitor and secure Level 1 and Level 2 industrial assets.
@@ -40,7 +40,7 @@ The transition from traditional IT security to Operational Technology (OT) secur
 
 ---
 
-## 🧭 Navigation / خريطة المرجع
+## Navigation / خريطة المرجع
 
 <div align="center">
 <table width="100%" style="border-collapse: separate; border-spacing: 15px;">
@@ -88,7 +88,7 @@ The transition from traditional IT security to Operational Technology (OT) secur
 
 ---
 
-## 🤝 Maintainer / المشرف على المرجع
+## Maintainer / المشرف على المرجع
 
 Built and maintained by **0xf9o (Faisal Alnumani)**. 
 *   **LinkedIn:** [Faisal Alnumani](https://www.linkedin.com/in/faisal-alumani)
